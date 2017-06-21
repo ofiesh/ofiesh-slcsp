@@ -1,0 +1,12 @@
+plan_id,state,metal_level,rate,rate_area
+,C,Silver,3,1
+,C,Silver,4,1
+,C,Silver,1,1
+,C,Silver,2,1
+,C,Gold,1.5,1
+,C,Bronze,1,1
+,C,Platinum,1,1
+,C,Catastrophic,1,1
+,C,Silver,1,2
+,C,Silver,1,1
+,D,Silver,10.9,1
